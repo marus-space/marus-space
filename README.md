@@ -45,5 +45,5 @@ German - Beginner
 
 ### 📫 How to reach me
 
-* [Telegram](t.me/marus_space)
+* [Telegram](https://t.me/marus_space)
 * marus.space@gmail.com
